@@ -1,5 +1,5 @@
 # How to set up Virtual Linux
-This is not a Dotfiles repo in it's purest form (like my [dotfiles-macos](https://github.com/asjafjell/dotfiles-macos) repo). The purpose of this setup is to be able to use Intellij IDEA in an `Citrix Workspace` with vaguely similary keyboard setup in order to code. This works where the hardware is a mac with a physical Norwegian keyboard, American English as layout and the virtual device is Ubuntu 22.04.
+This is not a Dotfiles repo in it's purest form (like my [dotfiles-macos](https://github.com/asjafjell/dotfiles-macos) repo) - Please follow and use ❤️. The purpose of this setup is to be able to use Intellij IDEA in an `Citrix Workspace` with vaguely similary keyboard setup in order to code. This works where the hardware is a mac with a physical Norwegian keyboard, American English as layout and the virtual device is Ubuntu 22.04.
 
 ## Guide
 
