@@ -15,8 +15,8 @@ After doing this guide it will feel like coding on a Mac. Unfortunately, not all
 2. In the Preferences of Citrix Workspace (![image](https://github.com/asjafjell/dotfiles/assets/720545/9b45085d-017e-47a5-8fe0-dca3aeab4c0c)),
    choose the double arrows in the right corner, `Keyboard` and set the following:
 
-   ![image](https://github.com/asjafjell/dotfiles/assets/720545/5c3dd010-a273-40d8-98e4-b7bb40e07a6d)
-   
+   ![image](https://github.com/user-attachments/assets/3272850e-88e2-4a87-a5c0-64605d0cbf3c)
+
    This will map: 
    - Right ⌘ button to `Meta`, which we can map in Intellij IDEA to act as the Command button.
    - _Left Option_ to `Alt / Option`
