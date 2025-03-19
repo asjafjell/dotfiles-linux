@@ -82,7 +82,7 @@ There are two different ways to add the shortcuts:
 1. Disable shortcuts for apps/mission control `Ctrl + Up` and `Ctrl + Down` on the Mac host to enable next/previous method:
    - System settings -> Keyboard -> Keyboard Shortcuts -> Mission Control
    - Untick `Mission Control` and `Application Windows`
-1. Disable shortcut for `Spotlight -> Show Finder search window` on the Mac host.
+1. Disable shortcut for `Spotlight -> Show Finder search window` on the Mac host. On your mac, go to `System Settings` -> `Keyboard` -> `Keyboard Shortcuts`, go to `Spotlight` and disable `Show Finder search window.
 1. Change shortcut `Find in files` to `Meta + Shift + F`
 1. Change shortcut `Replace in files` to `Meta + Shift + R`
 1. Change shortcut `Close tab` in `Editor close actions` to `Meta + W`
