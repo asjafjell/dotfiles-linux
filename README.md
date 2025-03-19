@@ -70,8 +70,8 @@ After doing this guide it will feel like coding on a Mac. Unfortunately, not all
 ### Keybindings to set up
 
 There are two different ways to add the shortcuts:
-- Download the [Shortcuts file](IntelliJ%20IDEA%20Classic%20-%20Sjoffa%20edition.xml) and add it to `~/.config/Jetbrains/<CURRENT JETBRAINS VERSION>/keymaps`. Restart the IDE and choose the keymap in `Settings -> Keymap`.
-- Add the shortcuts manually:
+- **Alternative 1:** Download the [Shortcuts file](IntelliJ%20IDEA%20Classic%20-%20Sjoffa%20edition.xml) and add it to `~/.config/Jetbrains/<CURRENT JETBRAINS VERSION>/keymaps`. Restart the IDE and choose the keymap in `Settings -> Keymap`. If it does not work, please see _Alternative 2_
+- **Alternative 2:** Add the shortcuts manually:
 1. _Right click-menu_ keybinding. Add the following shortcut in _Settings -> Keymap_ -> `Show Context Menu`: `Meta + Shift + 0`. 
 1. Search for _Go to_, set following
    - `Go to class` in `Go to by Name Actions`: `Ctrl + O`
